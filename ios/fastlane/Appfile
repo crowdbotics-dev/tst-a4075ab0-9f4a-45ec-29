@@ -1,0 +1,8 @@
+app_identifier("com.crowdbotics.tst-a4075ab0-9f4a-45ec-29-id") # The bundle identifier of your app
+apple_id("") # Your Apple email address
+
+itc_team_id("") # App Store Connect Team ID
+team_id("6YKR59QXKM") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
